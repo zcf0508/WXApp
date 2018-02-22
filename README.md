@@ -77,4 +77,4 @@ wxapp.SendTemplate(wxapp.token.getToken()).send({
 wxapp.gen_3rd_session_key()
 ```
 
-可用于与小程序端的客户认证
+可用于与小程序端的用户认证
